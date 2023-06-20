@@ -1,8 +1,7 @@
 #include "main.h"
-
 /**
  * main print _putchar
- *
+ *is writing by hb
  * Return: 0
  */
 
