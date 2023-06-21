@@ -13,5 +13,5 @@ int add(int i, int j)
 
 	k = i + j;
 
-	rturn (k);
+	return (k);
 }
